@@ -1,0 +1,6 @@
+{
+  "name": "SkillSync AI",
+  "description": "منصة تعلم وتبادل مهارات مدعومة بالذكاء الاصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
